@@ -1,20 +1,18 @@
 body{
-    background-color: rgb(37, 32, 32);
+    background-color:#171614;
     color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 25px;
 }
-img,iframe{
-    height: 200px;
-    width: 400px;
-    margin-left: 30%;
-    border: 5px solid gray;
-    border-radius: 10px;
-}
-
+iframe,img{width: 80%;
+margin-left: 150px;
+border: 5px #3A2618 solid;
+border-radius: 10px;
+height: 300px;}
 h1{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    color: #9A8873;
     
 }
 nav ul{
@@ -25,7 +23,7 @@ a{
     text-decoration: none;
 }
 #link:hover{
-    color: rgb(31, 31, 109);
+    color: #9A8873;
 }
 .list1{
     display: inline-block;
@@ -42,7 +40,7 @@ nav{
     text-align: center;
 }
 ol li ,b {
-    color: rgb(30, 30, 172);
+    color: #9A8873;
 }
 p{
     color: white;
